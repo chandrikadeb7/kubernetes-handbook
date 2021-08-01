@@ -17,6 +17,10 @@ This handbook covers a detailed understanding of the following topics mentioned 
 * Running Jobs
 * Kubernetes Dashboard and Debugging
 
+## View the Handbook
+
+You can view the handbook [here](https://amdocs-1.gitbook.io/kubernetes-handbook/). 
+
 ## Resources
 
 The full LinkedIn course for Kubernetes can be found [here](https://www.linkedin.com/learning/learning-kubernetes/welcome?u=105858922).
