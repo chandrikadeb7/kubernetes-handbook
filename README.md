@@ -1,7 +1,3 @@
----
-description: This handbook contains beginner-friendly notes on Kubernetes
----
-
 # Introduction
 
 **Kubernetes** is a platform to schedule and run containers on clusters of VM. It runs on bare metal, virtual machines, private or public cloud.
