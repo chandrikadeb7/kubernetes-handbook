@@ -21,6 +21,10 @@ This handbook covers a detailed understanding of the following topics mentioned 
 
 You can view the handbook [here](https://amdocs-1.gitbook.io/kubernetes-handbook/). 
 
+## Buy PDF version
+
+You can buy the PDF version of the **Kubernetes Handbook** ⭐ [Click Here](https://gum.co/kube-book) ⭐
+
 ## Resources
 
 The full LinkedIn course for Kubernetes can be found [here](https://www.linkedin.com/learning/learning-kubernetes/welcome?u=105858922).
